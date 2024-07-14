@@ -13,13 +13,14 @@ A discord bot made by QuakTech that's cool, its not finished (at all) and hostin
 - **8ball** [QUESTION] - Ask a 8ball a question.
 - **ping** - PONG!
 
-## Install
+## ⌨️Install
 [Add to server](https://discord.com/oauth2/authorize?client_id=1260009569392922664)
 
 ## 📜License
 QuakTech license v2 & MIT licenses.
 
 ## 👨‍💻Devs
-Maintainer : [AeternusDio](https://github.com/aeternusdio)
+Main Dev : [AeternusDio](https://github.com/aeternusdio)
 
 ## 📝Notes
+Commands in moderation directory such as role_manipulation.js only work for people who have roles named "SU" or "SU lite" you can change this to match your server since this bot isen't supposed to be like hosted by us, each mainter has to get the souce code and use it to match thier server because we lazy.
