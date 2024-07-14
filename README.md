@@ -3,7 +3,7 @@
 ![Discord Bot](https://img.shields.io/badge/discord-bot-blue)
 
 ## 📑Description
-A discord bot made by QuakTech that's cool, its not finished (at all) and new many feutres will be adde, along with commands for server admins, fun commands, econemy, etc. 
+A discord bot made by QuakTech that's cool, its not finished (at all) and new many feutres will be adde, along with commands for server admins, fun commands, econemy, etc. Also the basic directory structure and hadnlers and all the regestry code was made by Under Ctrl in this repo -> [Repo](https://github.com/notunderctrl/discordjs-v14-series?tab=readme-ov-file)
 
 ## ⌨️Commands
 - **role** [OPTION] [ROLENAME] - Manage roles.
